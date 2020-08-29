@@ -1,5 +1,7 @@
 
 # code-refactor5
+For this assignment, I added color, I tried to use semantic HTML and the Social Media drop down works! I also now know how to complete the README and how to create a link to this project! Progress!!! 
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
